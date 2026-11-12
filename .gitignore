@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+ngrok.yml
+.ipynb_checkpoints/
+ngrok.exe
+desktop.ini

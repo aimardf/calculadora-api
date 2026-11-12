@@ -113,7 +113,9 @@ docker rm calculadora
 3. Ejecuta todas las celdas (**Entorno de ejecución → Ejecutar todas**).
 4. Guarda el notebook con las salidas visibles (**Archivo → Descargar → .ipynb**) y sustituye el del repositorio.
 
-![Colab](docs/capturas/colab.png)
+![Colab: peticiones](docs/capturas/colab1.png)
+
+![Colab: respuestas](docs/capturas/colab2.png)
 
 ## Diagrama
 
